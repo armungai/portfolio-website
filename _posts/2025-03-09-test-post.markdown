@@ -1,2 +1,10 @@
+---
+layout: post
+title: "Test post"
+---
 # This is a test post
 
+
+
+
+[See here]({% link _posts/2025-03-09-welcome-to-jekyll.markdown %})
